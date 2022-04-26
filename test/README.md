@@ -26,13 +26,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
-/*
-Program to print the text “Hello World”.
-Developed by: H.Dhayanitha
-Registeration Number :212220230010
-*/
-```
+
+### Program to print the text “Hello World”.
+### Developed by: H.Dhayanitha
+### Registeration Number :212220230010
+
 ### MainActivity.java
 ```
 package com.example.exno1;
